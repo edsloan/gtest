@@ -1,4 +1,4 @@
 gtest
 =====
 
-Just a test repo
+Just a test repo - here goes some text.
